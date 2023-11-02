@@ -4,24 +4,18 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Twittermenti 1.xcscheme_^#shared#^_</key>
+		<key>Pods-Twittermenti.xcscheme</key>
 		<dict>
-			<key>orderHint</key>
-			<integer>3</integer>
+			<key>isShown</key>
+			<false/>
 		</dict>
-		<key>Twittermenti.xcscheme_^#shared#^_</key>
+		<key>SwiftyJSON.xcscheme</key>
 		<dict>
-			<key>orderHint</key>
-			<integer>2</integer>
+			<key>isShown</key>
+			<false/>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
-	<dict>
-		<key>AD9EC64B20FE2EF4002AE9BF</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-	</dict>
+	<dict/>
 </dict>
 </plist>
